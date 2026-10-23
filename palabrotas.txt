@@ -1,0 +1,11 @@
+# AsierBot - lista de palabras prohibidas
+# Una palabra o frase por línea. Las líneas que empiezan por # se ignoran.
+# Esta es solo una lista de ejemplo: sustitúyela por la lista completa
+# (por ejemplo, LDNOOBW en GitHub, que incluye chino y otros idiomas).
+# Tras editar el archivo, usa !recargar en Discord o reinicia el bot.
+puta
+mierda
+joder
+cabron
+gilipollas
+hijo de puta
